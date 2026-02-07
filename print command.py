@@ -1,0 +1,6 @@
+print("\nAssalamualaikum so this is my first python code")
+print("I am learning python")
+x = input("Enter your name: ")
+print("I am, " + x)
+y = input("Enter your age: ")
+print("I am, " + y + " years old")
